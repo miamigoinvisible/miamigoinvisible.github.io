@@ -1,6 +1,5 @@
-## OK, this part was easy...
+## OK,getting here was easy..
 
-Here you have your second clue:
 
 miamigoinvisible/regalo
 
