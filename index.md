@@ -1,7 +1,7 @@
-  ## OK,getting here was easy..
-  
-  miamigoinvisible/regalo
+## OK,getting here was easy..
 
-  ![Docker icon](http://blog.sylvaincau.com/content/images/2016/02/docker-1080-1.png)
+miamigoinvisible/regalo
+
+![Docker icon](http://blog.sylvaincau.com/content/images/2016/02/docker-1080-1.png)
 
 
